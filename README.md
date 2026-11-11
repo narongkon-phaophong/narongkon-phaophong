@@ -35,11 +35,17 @@
 
 ---
 
-### 📊 GitHub Overview
-
+## 📊 GitHub Analytics
+ 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narongkon-phaophong&theme=tokyonight" alt="Narongkon's GitHub profile summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=narongkon-phaophong&theme=tokyonight" alt="Languages used in Narongkon's public repositories" />
+ 
+<img src="https://github-readme-stats-fast.vercel.app/api?username=thammarat-ai&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thammarat-ai&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+ 
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true%22 width="100%" />
+ 
 </div>
 
 ---
