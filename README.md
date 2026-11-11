@@ -38,12 +38,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=narongkon-phaophong&show_icons=true&theme=tokyonight&hide_border=true" alt="Narongkon's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=narongkon-phaophong&layout=compact&theme=tokyonight&hide_border=true" alt="Languages used in Narongkon's public repositories" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=narongkon-phaophong&show_icons=true&theme=default&hide_border=false" alt="Narongkon's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=narongkon-phaophong&layout=compact&theme=default&hide_border=false" alt="Languages used in Narongkon's public repositories" height="165" />
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narongkon-phaophong&theme=tokyonight" alt="Narongkon's GitHub profile summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narongkon-phaophong&theme=default" alt="Narongkon's GitHub profile summary" width="100%" />
 </div>
 
 ---
